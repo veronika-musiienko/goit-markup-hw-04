@@ -539,7 +539,8 @@ display: block;
 }
 .footer-social {
 display: flex;
- gap: 16px;
+gap: 16px;
+list-style: none;
 }
 .footer-social-item {
     width: 40px;
