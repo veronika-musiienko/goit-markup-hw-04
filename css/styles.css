@@ -64,7 +64,7 @@ margin: 0 auto;
 
     
 
-.nav-link .active::after {
+.nav-link.active::after {
 content: '';
 display: block;
 width: 100%;
